@@ -43,7 +43,7 @@ The files below are the **ONLY** sources for user-facing content (CV, cover lett
 | CLI | economy | standard | premium | Extended thinking |
 |-----|---------|----------|---------|--------------------|
 | Claude Code | Haiku 4.5 | Sonnet 4.6 | Opus 4.8 | off / off / adaptive |
-| OpenCode | your CLI's cheapest/fastest available model | balanced model | most capable model | off / off / adaptive |
+| OpenCode | deepseek-v4-flash | deepseek-v4-pro | deepseek-v4-pro | off / off / adaptive |
 | Gemini CLI | your CLI's cheapest/fastest available model | balanced model | most capable model | off / off / adaptive |
 | Copilot CLI | your CLI's cheapest/fastest available model | balanced model | most capable model | off / off / adaptive |
 | Codex | your CLI's cheapest/fastest available model | balanced model | most capable model | off / off / adaptive |
